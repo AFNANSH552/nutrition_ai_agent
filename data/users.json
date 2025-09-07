@@ -1,0 +1,416 @@
+[
+  {
+    "user_id": "u001",
+    "diet_pref": "veg",
+    "allergies": [
+      "nuts",
+      "gluten"
+    ],
+    "age": 30,
+    "gender": "F",
+    "city": "Chennai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:30",
+      "lunch": "12:00",
+      "dinner": "20:00"
+    },
+    "conditions": [
+      "Weight management",
+      "Gut health"
+    ]
+  },
+  {
+    "user_id": "u002",
+    "diet_pref": "veg",
+    "allergies": [],
+    "age": 62,
+    "gender": "F",
+    "city": "Chennai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:30",
+      "lunch": "13:00",
+      "dinner": "19:00"
+    },
+    "conditions": [
+      "Hair fall",
+      "Gut health",
+      "Glowing skin",
+      "Nail issues"
+    ]
+  },
+  {
+    "user_id": "u003",
+    "diet_pref": "nonveg",
+    "allergies": [
+      "dairy"
+    ],
+    "age": 58,
+    "gender": "Other",
+    "city": "Bangalore",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "14:00",
+      "dinner": "19:00"
+    },
+    "conditions": [
+      "Immunity",
+      "Muscle pain",
+      "Hair fall"
+    ]
+  },
+  {
+    "user_id": "u004",
+    "diet_pref": "nonveg",
+    "allergies": [
+      "gluten"
+    ],
+    "age": 44,
+    "gender": "Other",
+    "city": "Bangalore",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:00",
+      "lunch": "12:00",
+      "dinner": "19:00"
+    },
+    "conditions": [
+      "Energy boost",
+      "Hair fall",
+      "Glowing skin",
+      "Weight management"
+    ]
+  },
+  {
+    "user_id": "u005",
+    "diet_pref": "nonveg",
+    "allergies": [],
+    "age": 40,
+    "gender": "M",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "12:30",
+      "dinner": "20:00"
+    },
+    "conditions": [
+      "Muscle pain",
+      "Nail issues",
+      "Hair fall"
+    ]
+  },
+  {
+    "user_id": "u006",
+    "diet_pref": "nonveg",
+    "allergies": [],
+    "age": 59,
+    "gender": "M",
+    "city": "Mumbai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "12:00",
+      "dinner": "21:30"
+    },
+    "conditions": [
+      "Gut health",
+      "Energy boost",
+      "Muscle pain",
+      "Nail issues"
+    ]
+  },
+  {
+    "user_id": "u007",
+    "diet_pref": "veg",
+    "allergies": [
+      "gluten"
+    ],
+    "age": 58,
+    "gender": "F",
+    "city": "Chennai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:00",
+      "lunch": "12:00",
+      "dinner": "19:30"
+    },
+    "conditions": [
+      "Immunity",
+      "Gut health",
+      "Glowing skin"
+    ]
+  },
+  {
+    "user_id": "u008",
+    "diet_pref": "egg",
+    "allergies": [],
+    "age": 52,
+    "gender": "M",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:00",
+      "lunch": "12:00",
+      "dinner": "19:30"
+    },
+    "conditions": [
+      "Muscle pain",
+      "Glowing skin",
+      "Hair fall",
+      "Immunity"
+    ]
+  },
+  {
+    "user_id": "u009",
+    "diet_pref": "veg",
+    "allergies": [
+      "shellfish",
+      "dairy"
+    ],
+    "age": 32,
+    "gender": "F",
+    "city": "Bangalore",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "09:00",
+      "lunch": "12:00",
+      "dinner": "21:30"
+    },
+    "conditions": [
+      "Glowing skin",
+      "Gut health",
+      "Nail issues",
+      "Muscle pain"
+    ]
+  },
+  {
+    "user_id": "u010",
+    "diet_pref": "nonveg",
+    "allergies": [
+      "gluten"
+    ],
+    "age": 50,
+    "gender": "Other",
+    "city": "Delhi",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "14:00",
+      "dinner": "21:00"
+    },
+    "conditions": [
+      "Nail issues",
+      "Muscle pain",
+      "Immunity",
+      "Weight management"
+    ]
+  },
+  {
+    "user_id": "u011",
+    "diet_pref": "veg",
+    "allergies": [
+      "shellfish",
+      "nuts"
+    ],
+    "age": 38,
+    "gender": "M",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:00",
+      "lunch": "13:00",
+      "dinner": "20:30"
+    },
+    "conditions": [
+      "Glowing skin",
+      "Energy boost"
+    ]
+  },
+  {
+    "user_id": "u012",
+    "diet_pref": "nonveg",
+    "allergies": [
+      "gluten"
+    ],
+    "age": 25,
+    "gender": "M",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:00",
+      "lunch": "14:30",
+      "dinner": "19:00"
+    },
+    "conditions": [
+      "Gut health",
+      "Hair fall",
+      "Muscle pain",
+      "Nail issues"
+    ]
+  },
+  {
+    "user_id": "u013",
+    "diet_pref": "nonveg",
+    "allergies": [
+      "dairy"
+    ],
+    "age": 60,
+    "gender": "F",
+    "city": "Bangalore",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:30",
+      "lunch": "13:00",
+      "dinner": "19:00"
+    },
+    "conditions": [
+      "Weight management",
+      "Glowing skin"
+    ]
+  },
+  {
+    "user_id": "u014",
+    "diet_pref": "veg",
+    "allergies": [
+      "dairy"
+    ],
+    "age": 33,
+    "gender": "F",
+    "city": "Mumbai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "09:30",
+      "lunch": "14:30",
+      "dinner": "20:00"
+    },
+    "conditions": [
+      "Glowing skin",
+      "Muscle pain",
+      "Gut health"
+    ]
+  },
+  {
+    "user_id": "u015",
+    "diet_pref": "egg",
+    "allergies": [
+      "shellfish",
+      "nuts"
+    ],
+    "age": 52,
+    "gender": "M",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:00",
+      "lunch": "14:30",
+      "dinner": "21:00"
+    },
+    "conditions": [
+      "Hair fall",
+      "Muscle pain",
+      "Gut health",
+      "Nail issues"
+    ]
+  },
+  {
+    "user_id": "u016",
+    "diet_pref": "veg",
+    "allergies": [],
+    "age": 33,
+    "gender": "M",
+    "city": "Pune",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "07:30",
+      "lunch": "12:30",
+      "dinner": "21:00"
+    },
+    "conditions": [
+      "Hair fall",
+      "Gut health"
+    ]
+  },
+  {
+    "user_id": "u017",
+    "diet_pref": "egg",
+    "allergies": [
+      "dairy"
+    ],
+    "age": 43,
+    "gender": "F",
+    "city": "Bangalore",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "09:30",
+      "lunch": "14:30",
+      "dinner": "20:00"
+    },
+    "conditions": [
+      "Energy boost",
+      "Weight management"
+    ]
+  },
+  {
+    "user_id": "u018",
+    "diet_pref": "nonveg",
+    "allergies": [],
+    "age": 57,
+    "gender": "M",
+    "city": "Mumbai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "12:30",
+      "dinner": "19:30"
+    },
+    "conditions": [
+      "Energy boost",
+      "Weight management",
+      "Gut health"
+    ]
+  },
+  {
+    "user_id": "u019",
+    "diet_pref": "veg",
+    "allergies": [],
+    "age": 53,
+    "gender": "M",
+    "city": "Chennai",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "09:30",
+      "lunch": "12:00",
+      "dinner": "21:00"
+    },
+    "conditions": [
+      "Gut health",
+      "Hair fall"
+    ]
+  },
+  {
+    "user_id": "u020",
+    "diet_pref": "veg",
+    "allergies": [
+      "dairy",
+      "gluten"
+    ],
+    "age": 49,
+    "gender": "Other",
+    "city": "Kolkata",
+    "tz": "Asia/Kolkata",
+    "usual_meal_times": {
+      "breakfast": "08:30",
+      "lunch": "12:00",
+      "dinner": "19:30"
+    },
+    "conditions": [
+      "Energy boost",
+      "Hair fall",
+      "Weight management",
+      "Nail issues"
+    ]
+  }
+]

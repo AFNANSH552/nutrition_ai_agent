@@ -1,0 +1,26 @@
+[
+  {
+    "template_id": "pre_meal_basic",
+    "text": "{food} now for {benefit} \u2192 supports {condition}. Try {cta}",
+    "style": "friendly",
+    "lang": "en"
+  },
+  {
+    "template_id": "post_workout",
+    "text": "Post-workout fuel: {food} provides {benefit} for {condition}. {cta} \ud83d\udcaa",
+    "style": "punchy",
+    "lang": "en"
+  },
+  {
+    "template_id": "science_fact",
+    "text": "{why_now} \u2014 {food} delivers {benefit} for {condition}. {cta}",
+    "style": "sciencey",
+    "lang": "en"
+  },
+  {
+    "template_id": "condition_reminder",
+    "text": "Haven't focused on {condition} lately? {food} provides {benefit}. {cta}",
+    "style": "gentle",
+    "lang": "en"
+  }
+]

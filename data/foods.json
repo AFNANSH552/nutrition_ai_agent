@@ -1,0 +1,211 @@
+[
+  {
+    "food_id": "f001",
+    "name": "Soaked Almonds",
+    "is_veg": true,
+    "ingredients": [
+      "almonds"
+    ],
+    "tags": [
+      "nuts",
+      "protein"
+    ],
+    "nutrients": {
+      "protein": 6.0,
+      "vitamin_e": 7.3,
+      "zinc": 0.9,
+      "fiber": 3.5
+    }
+  },
+  {
+    "food_id": "f002",
+    "name": "Greek Yogurt",
+    "is_veg": true,
+    "ingredients": [
+      "milk",
+      "yogurt cultures"
+    ],
+    "tags": [
+      "dairy",
+      "probiotic"
+    ],
+    "nutrients": {
+      "protein": 10.0,
+      "probiotics": 1.0,
+      "calcium": 120
+    }
+  },
+  {
+    "food_id": "f003",
+    "name": "Spinach Salad",
+    "is_veg": true,
+    "ingredients": [
+      "spinach",
+      "tomatoes"
+    ],
+    "tags": [
+      "leafy_greens"
+    ],
+    "nutrients": {
+      "iron": 2.7,
+      "vitamin_c": 28.1,
+      "fiber": 2.2,
+      "folate": 58.2
+    }
+  },
+  {
+    "food_id": "f004",
+    "name": "Grilled Chicken Breast",
+    "is_veg": false,
+    "ingredients": [
+      "chicken breast"
+    ],
+    "tags": [
+      "lean_protein"
+    ],
+    "nutrients": {
+      "protein": 31.0,
+      "vitamin_b12": 0.3,
+      "iron": 1.0
+    }
+  },
+  {
+    "food_id": "f005",
+    "name": "Quinoa Bowl",
+    "is_veg": true,
+    "ingredients": [
+      "quinoa",
+      "vegetables"
+    ],
+    "tags": [
+      "whole_grain",
+      "complete_protein"
+    ],
+    "nutrients": {
+      "protein": 8.1,
+      "fiber": 5.2,
+      "iron": 2.8,
+      "magnesium": 118
+    }
+  },
+  {
+    "food_id": "f006",
+    "name": "Banana",
+    "is_veg": true,
+    "ingredients": [
+      "banana"
+    ],
+    "tags": [
+      "fruit"
+    ],
+    "nutrients": {
+      "potassium": 358,
+      "vitamin_b6": 0.4,
+      "complex_carbs": 22.8
+    }
+  },
+  {
+    "food_id": "f007",
+    "name": "Salmon Fillet",
+    "is_veg": false,
+    "ingredients": [
+      "salmon"
+    ],
+    "tags": [
+      "fish",
+      "omega3"
+    ],
+    "nutrients": {
+      "protein": 25.4,
+      "omega3": 1.8,
+      "vitamin_d": 11.0
+    }
+  },
+  {
+    "food_id": "f008",
+    "name": "Avocado",
+    "is_veg": true,
+    "ingredients": [
+      "avocado"
+    ],
+    "tags": [
+      "healthy_fats"
+    ],
+    "nutrients": {
+      "fiber": 10.0,
+      "vitamin_e": 2.1,
+      "potassium": 485
+    }
+  },
+  {
+    "food_id": "f009",
+    "name": "Lentil Dal",
+    "is_veg": true,
+    "ingredients": [
+      "lentils",
+      "spices"
+    ],
+    "tags": [
+      "legumes",
+      "protein"
+    ],
+    "nutrients": {
+      "protein": 9.0,
+      "iron": 3.3,
+      "fiber": 8.0,
+      "folate": 180
+    }
+  },
+  {
+    "food_id": "f010",
+    "name": "Eggs",
+    "is_veg": false,
+    "ingredients": [
+      "eggs"
+    ],
+    "tags": [
+      "complete_protein"
+    ],
+    "nutrients": {
+      "protein": 13.0,
+      "biotin": 10.0,
+      "vitamin_b12": 0.9,
+      "choline": 147
+    }
+  },
+  {
+    "food_id": "f011",
+    "name": "Sweet Potato",
+    "is_veg": true,
+    "ingredients": [
+      "sweet potato"
+    ],
+    "tags": [
+      "root_vegetable"
+    ],
+    "nutrients": {
+      "vitamin_a": 14187,
+      "fiber": 3.8,
+      "complex_carbs": 20.1,
+      "potassium": 337
+    }
+  },
+  {
+    "food_id": "f012",
+    "name": "Walnuts",
+    "is_veg": true,
+    "ingredients": [
+      "walnuts"
+    ],
+    "tags": [
+      "nuts",
+      "omega3"
+    ],
+    "nutrients": {
+      "omega3": 2.5,
+      "protein": 4.3,
+      "vitamin_e": 0.7,
+      "magnesium": 45
+    }
+  }
+]

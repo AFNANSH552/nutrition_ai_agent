@@ -1,0 +1,21 @@
+condition,nutrient,weight,references
+Glowing skin,vitamin_e,0.9,PMID:12345
+Glowing skin,zinc,0.8,PMID:12346
+Glowing skin,vitamin_c,0.7,PMID:12347
+Glowing skin,omega3,0.6,
+Hair fall,biotin,0.9,PMID:23456
+Hair fall,iron,0.8,PMID:23457
+Hair fall,protein,0.7,PMID:23458
+Hair fall,zinc,0.6,
+Gut health,fiber,0.9,PMID:34567
+Gut health,probiotics,0.8,PMID:34568
+Gut health,prebiotics,0.7,PMID:34569
+Muscle pain,magnesium,0.9,PMID:45678
+Muscle pain,protein,0.8,PMID:45679
+Muscle pain,omega3,0.7,
+Energy boost,iron,0.9,PMID:56789
+Energy boost,vitamin_b12,0.8,PMID:56790
+Energy boost,complex_carbs,0.7,
+Immunity,vitamin_c,0.9,PMID:67890
+Immunity,zinc,0.8,PMID:67891
+Immunity,vitamin_d,0.7,
