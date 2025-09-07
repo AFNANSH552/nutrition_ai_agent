@@ -1,4 +1,4 @@
-# Personalized Nutritional Notifications AI Agent
+# Personalized Nutritional Notifications AI Agent _by pathan afnan khan
 
 A comprehensive AI-powered system that delivers science-backed, personalized nutritional notifications tailored to user profiles, health conditions, and contextual timing.
 
@@ -361,4 +361,4 @@ For questions, issues, or contributions:
 * **Performance** : Run `/evaluate` endpoint for system health metrics
 * **Safety Concerns** : All safety violations logged and should be 0
 
-**Happy Healthy Eating! 🥗💪**
+**Made By Pathan Afnan Khan**
